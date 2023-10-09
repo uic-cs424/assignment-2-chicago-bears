@@ -1,5 +1,5 @@
 ## Introduction
-Please download the Building [Violation dataset(csv)](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr) to your local first
+Please download the Building [Violation dataset(csv)](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr) to your local first.
 
 ## Screenshots
 <img src="./screenshots/1-1-1.png">
