@@ -16,6 +16,18 @@ In the final graph of our series, we employ a scatter plot segmented by two inte
 
 The positioning on the plot is determined by the x-axis (more to the right signifies higher violation counts) and the y-axis (higher placement corresponds to increased solution rates). This approach allows for an insightful analysis of the correlation between building violations and their resolutions.
 
+## Conclusion
+Based on our analysis with visualization, we got several conclusion as below:  
+
+> 1. Building violations have been **decreasing** over the years.
+> 2. The distribution of building violations in Chicago shows a **decreasing** trend from north to south.
+>3. The violation type labeled **'CN'** records the highest frequency.
+>4. An **increase** in population correlates with a **rise** in building violation counts.
+>5. As average incomes **rise**, building violation counts tend to **decrease**.
+>6. Neighborhoods with **fewer** violations typically have a **higher** average income than those with the most violations.
+>7. Building violation counts tend to **rise** in tandem with increased crime rates.
+>8. Even though building violations have **declined** over the years, the rate of resolving these violations is also **decreasing**.
+
 ## Screenshots
 <img src="./screenshots/1-1-1.png">
 <img src="./screenshots/1-1-2.png">
